@@ -7,7 +7,7 @@ Puedes ver en lo que he trabajado en mi [Portfolio](http://www.amcaricola.com/#p
 
 ## Hey!
 
-I'm Ahthony Caricola, **Front-End Developer** since 2022, more than 10 years of experience in management, helped me to understand the logical thinking and processes in tasks, and this influences my work directly.
+I'm Anthony Caricola, **Front-End Developer** since 2022, more than 10 years of experience in management, helped me to understand the logical thinking and processes in tasks, and this influences my work directly.
 
 You can see what I've done on in my [Portfolio](http://www.amcaricola.com/#portfolio)  or check out GitHub
 
